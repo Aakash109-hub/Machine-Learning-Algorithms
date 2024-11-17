@@ -8,8 +8,6 @@ Welcome to my **Daily ML Algorithms** repository! This is my personal project to
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Features](#features)
-- [Contribute](#contribute)
-- [License](#license)
 
 ## 🧠 **About**
 
