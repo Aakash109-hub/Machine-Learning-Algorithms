@@ -64,7 +64,7 @@ Follow these steps to use this repository:
 
 ## 🎯 **Future Plans**
 
-- Add advanced algorithms (e.g., Deep Learning models).
+- Add advanced algorithms (e.g. Deep Learning models).
 - Include more datasets for practice.
 - Add explanations for hyperparameter tuning and optimization techniques.
 
