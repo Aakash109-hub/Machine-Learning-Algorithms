@@ -6,7 +6,6 @@ Welcome to my **Daily ML Algorithms** repository! This is my personal project to
 
 - [About](#about)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
 - [Features](#features)
 
 ## 🧠 **About**
@@ -27,10 +26,6 @@ This repository contains:
   - [Matplotlib](https://matplotlib.org/) - Data visualization
   - [TensorFlow](https://tensorflow.org/) - Advanced ML and deep learning
   - Jupyter Notebook for interactive coding
-
-## 🛠️ **How to Use**
-
-Follow these steps to use this repository:
 
 1. **Clone the Repository**:
    ```bash
