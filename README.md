@@ -27,10 +27,6 @@ This repository contains:
   - [TensorFlow](https://tensorflow.org/) - Advanced ML and deep learning
   - Jupyter Notebook for interactive coding
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Aakash109-hub/Machine-Learning-Algorithms.git
-   ```
 2. **Install Dependencies**:
    Make sure you have Python installed. Then, install required libraries:
    ```bash
