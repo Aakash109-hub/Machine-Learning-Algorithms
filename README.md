@@ -27,11 +27,6 @@ This repository contains:
   - [TensorFlow](https://tensorflow.org/) - Advanced ML and deep learning
   - Jupyter Notebook for interactive coding
 
-2. **Install Dependencies**:
-   Make sure you have Python installed. Then, install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. **Explore the Code**:
    - Navigate to the algorithm folder of your choice.
    - Open the Jupyter Notebooks or Python scripts to review the code and comments.
