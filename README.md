@@ -52,4 +52,4 @@ This repository contains:
 
 ## 🙌 **Acknowledgments**
 
-Inspired by the desire to learn and grow in the field of machine learning. Special thanks to the open-source community for providing excellent learning resources.
+Inspired by the desire to learn and grow in the field of machine learning. Special thanks to the open-source community for providing excellent learning resources
