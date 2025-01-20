@@ -31,7 +31,8 @@ This repository contains:
 
 - **Algorithms Covered**:
   - Regression (Linear, Logistic)
-  - Decision Trees and Random Forests
+  - Decision Trees
+  - Random Forests
   - K-Nearest Neighbors (KNN)
   - Support Vector Machines (SVM)
   - Clustering (K-Means, DBSCAN)
